@@ -1,7 +1,15 @@
-1주에 1챕터씩, 하루에 한 문제 풀기(DailyCoding repo)
-
-매주 금요일에는 함께 풀기
-
+## 📌 Rules
+1. 일주일에 책 한 챕터(이론+기출) 진도 나감(필수 사항)
+  - [DailyCoding repo](https://github.com/ALGO-LEARN/DailyCoding)
+  - 위 레포지토리에 올리면 됩니다.
+  - 1주에 1챕터씩, 하루에 한 문제 풀기
+  - ex) 3장 그리디, 11장 그리디 문제들 하나씩 풀면 됨
+  - 세부 일정표는 하단에 게시 되어 있습니다.
+2. 본인이 더 풀고싶다 하는 사람들은 다음 링크 추천합니다.(선택 사항)
+  - [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+3. 금요일 모각코땐 삼성기출 1문제 같이풀기
+  - 난이도 오름차순으로 할 예정(실버1~골드1까지 있는걸로 암)
+  - 아마 금요일 제시간에 못풀 가능성 높은데 금~일 3일동안 고민해보면 좋을 것 같아용
 
 ## MARCH
 
