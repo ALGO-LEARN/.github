@@ -1,4 +1,15 @@
-## 📌 Rules
+## 📝 Repo Info
+1. [.github](https://github.com/ALGO-LEARN/.github)
+  - 조직 프로필 저장 레포
+2. [DailyCoding](https://github.com/ALGO-LEARN/DailyCoding)
+  - 일일 단위 알고리즘 풀이 저장 레포
+3. [waitForm](https://github.com/ALGO-LEARN/waitForm)
+  - 외주 플랫폼 프로젝트
+4. [waitFormPR](https://github.com/ALGO-LEARN/waitFormPR)
+  - waitForm 관련 문서 저장 레포
+  - *본 레포는 비공개 레포입니다!*
+
+## 📌 Rules of DailyCoding
 1. 일주일에 책 한 챕터(이론+기출) 진도 나감(필수 사항)
   - [DailyCoding repo](https://github.com/ALGO-LEARN/DailyCoding)
   - 위 레포지토리에 올리면 됩니다.
@@ -12,7 +23,7 @@
   - 아마 금요일 제시간에 못풀 가능성 높은데 금~일 3일동안 고민해보면 좋을 것 같아용
   - [백준 그룹](https://www.acmicpc.net/group/14173)
 
-## MARCH
+## ☘️ MARCH daily coding schedule 
 
 |SUN    |MON    |TUE    |WED    |THU    |FRI    |SAT    |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
